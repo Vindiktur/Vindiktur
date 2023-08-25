@@ -1,0 +1,5 @@
+-  Hi, I’m @Vindiktur!
+-  I’m super interested in the aspects of game design and programming. I've been an avid fan of video games since childhood, and my favorites to play are MMOs, Sandbox games, RPGs and Monster Tamer/Hunter games.
+-  I have worked as lead programmer and map designer on a game within RPGMaker XP called Skyshard: Rootago Islands. Link to the discord will be in my profile if you're interested in playing the game.
+-  I’m currently learning coding in languages at Judson University so that I can get enough coding know-how to turn my RPGMaker game into a full-fledged game with a market release!
+-  Reach me by sending an email to jhelsley321@gmail.com or @ me in the discord server (@vindiktur).
